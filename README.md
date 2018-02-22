@@ -1,0 +1,2 @@
+# OthersFile
+For non-Xcode
